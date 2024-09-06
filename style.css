@@ -649,12 +649,6 @@ span {
     section{
         padding: 10rem 3% 2rem;
     }
-    .heading {
-    font-size: 20px;
-    }
-    .timeline-content {
-    padding: 40px 50px;
-    }
     .timeline-items::before {
         left: 7px;
     }
