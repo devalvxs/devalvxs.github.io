@@ -24,6 +24,7 @@ html {
 body {
     background: var(--bg-color);
     color: var(--text-color);
+    overflow-y: hidden;
 }
 
 .header {
@@ -677,6 +678,9 @@ span {
 @media(max-width:895px) {
     #menu-icon {
         display: block;
+    }
+    .heading {
+        font-size: 60px;
     }
     .navbar {
         position: absolute;
